@@ -1,1 +1,2 @@
-# Projekt Echo
+# Brain-Hub
+Projekt Echo
